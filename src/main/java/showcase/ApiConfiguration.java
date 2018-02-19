@@ -6,6 +6,6 @@ import javax.ws.rs.core.Application;
 /**
  * @author Pavel Pscheidl <pavel.junior@pscheidl.cz>
  */
-@ApplicationPath("")
+@ApplicationPath("rest")
 public class ApiConfiguration extends Application {
 }
